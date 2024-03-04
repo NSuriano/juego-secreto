@@ -5,4 +5,4 @@
 Tiene 3 chances para adivinar el número secreto. Cuando el usuario falla, el juego le da pistas para ayudarlo.<br>
 La eleción del número secreto es aleatoria, asegurando que no se repita el número, para no aburrir al usuario</p>
 <p>Puedes visualizar y jugar a adivinar el número secreto atrávez de este link:<br>
-</p>
+ nsuriano.github.io/juego-secreto/</p>
